@@ -29,3 +29,7 @@ footer a {
     background-color:rgb(150, 201, 62);
     border-color:rgb(150, 201, 62);
 }
+.card-total {
+    background-color:rgb(204, 229, 255);
+    border-color:rgb(184, 218, 255);
+}
